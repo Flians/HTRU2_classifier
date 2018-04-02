@@ -1,0 +1,102 @@
+> Executing task in folder Workplace: /usr/bin/python3 /home/unaware/Workplace/pythonWork/HTRU2_classifier/HTRU2_KNN.py <
+
+WARNING:tensorflow:From /home/unaware/Workplace/pythonWork/HTRU2_classifier/HTRU2_KNN.py:36: arg_min (from tensorflow.python.ops.gen_math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `argmin` instead
+2018-03-14 14:40:54.882331: I tensorflow/core/platform/cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2018-03-14 14:40:54.955179: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:898] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2018-03-14 14:40:54.955520: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 0 with properties:
+name: GeForce GTX 960M major: 5 minor: 0 memoryClockRate(GHz): 1.176
+pciBusID: 0000:01:00.0
+totalMemory: 1.96GiB freeMemory: 1.17GiB
+2018-03-14 14:40:54.955554: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1312] Adding visible gpu devices: 0
+2018-03-14 14:40:55.431497: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 916 MB memory) -> physical GPU (device: 0, name: GeForce GTX 960M, pci bus id: 0000:01:00.0, compute capability: 5.0)
+0 -> Accuracy: 0.9622905027932961
+1 -> Accuracy: 0.9564245810055866
+2 -> Accuracy: 0.9636871508379888
+3 -> Accuracy: 0.958659217877095
+4 -> Accuracy: 0.9594972067039106
+5 -> Accuracy: 0.9645251396648045
+6 -> Accuracy: 0.9625698324022346
+7 -> Accuracy: 0.961731843575419
+8 -> Accuracy: 0.9625698324022346
+9 -> Accuracy: 0.9589385474860335
+
+Terminal will be reused by tasks, press any key to close it.
+
+
+> Executing task in folder Workplace: /usr/bin/python3 /home/unaware/Workplace/pythonWork/HTRU2_classifier/HTRU2_KNN.py <
+
+WARNING:tensorflow:From /home/unaware/Workplace/pythonWork/HTRU2_classifier/HTRU2_KNN.py:36: arg_min (from tensorflow.python.ops.gen_math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `argmin` instead
+2018-03-14 16:32:57.103301: I tensorflow/core/platform/cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2018-03-14 16:32:57.332625: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:898] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMAnode, so returning NUMA node zero
+2018-03-14 16:32:57.333252: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 0 with properties:
+name: GeForce GTX 960M major: 5 minor: 0 memoryClockRate(GHz): 1.176
+pciBusID: 0000:01:00.0
+totalMemory: 1.96GiB freeMemory: 1.56GiB
+2018-03-14 16:32:57.333274: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1312] Adding visible gpu devices: 0
+2018-03-14 16:33:08.708601: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1321 MB memory) -> physical GPU (device: 0, name: GeForce GTX 960M, pci bus id: 0000:01:00.0, compute capability: 5.0)
+0 ->
+ P = TP/(TP + FP): 0.7845659163987139
+ R = TP/(TP + FN): 0.7870967741935484
+ F1 = 2.*P*R/(P + R): 0.7858293075684379
+ Accuracy: 0.9628491620111732
+
+1 ->
+ P = TP/(TP + FP): 0.8050139275766016
+ R = TP/(TP + FN): 0.8072625698324022
+ F1 = 2.*P*R/(P + R): 0.8061366806136679
+ Accuracy: 0.961173184357542
+
+2 ->
+ P = TP/(TP + FP): 0.7668918918918919
+ R = TP/(TP + FN): 0.7541528239202658
+ F1 = 2.*P*R/(P + R): 0.760469011725293
+ Accuracy: 0.9600558659217877
+
+3 ->
+ P = TP/(TP + FP): 0.8504398826979472
+ R = TP/(TP + FN): 0.7988980716253443
+ F1 = 2.*P*R/(P + R): 0.8238636363636364
+ Accuracy: 0.9653631284916201
+
+4 ->
+ P = TP/(TP + FP): 0.8322784810126582
+ R = TP/(TP + FN): 0.7804154302670623
+ F1 = 2.*P*R/(P + R): 0.8055130168453293
+ Accuracy: 0.9645251396648045
+
+5 ->
+ P = TP/(TP + FP): 0.7874251497005988
+ R = TP/(TP + FN): 0.7945619335347432
+ F1 = 2.*P*R/(P + R): 0.7909774436090227
+ Accuracy: 0.961173184357542
+
+6 ->
+ P = TP/(TP + FP): 0.7848484848484848
+ R = TP/(TP + FN): 0.8068535825545171
+ F1 = 2.*P*R/(P + R): 0.7956989247311828
+ Accuracy: 0.9628491620111732
+
+7 ->
+ P = TP/(TP + FP): 0.79375
+ R = TP/(TP + FN): 0.79375
+ F1 = 2.*P*R/(P + R): 0.79375
+ Accuracy: 0.9631284916201117
+
+8 ->
+ P = TP/(TP + FP): 0.7774294670846394
+ R = TP/(TP + FN): 0.8211920529801324
+ F1 = 2.*P*R/(P + R): 0.7987117552334944
+ Accuracy: 0.9650837988826816
+
+9 ->
+ P = TP/(TP + FP): 0.7911764705882353
+ R = TP/(TP + FN): 0.7685714285714286
+ F1 = 2.*P*R/(P + R): 0.7797101449275361
+ Accuracy: 0.9575418994413408
+
+
+Terminal will be reused by tasks, press any key to close it.

@@ -1,0 +1,656 @@
+>>>> Process Task1
+args: train_ratio = 0.15
+0 ->
+ P = TP/(TP + FP):0.8157076205287714
+ R = TP/(TP + FN):0.751432664756447
+ F1 = 2.*P*R/(P + R):0.7822520507084266
+ Accuracy:0.9616117793991981
+
+>>>> Process Task1
+args: train_ratio = 0.15
+1 ->
+ P = TP/(TP + FP):0.8347425057647964
+ R = TP/(TP + FN):0.7691218130311614
+ F1 = 2.*P*R/(P + R):0.8005897530409141
+ Accuracy:0.9644383093406954
+
+>>>> Process Task1
+args: train_ratio = 0.15
+2 ->
+ P = TP/(TP + FP):0.8206896551724138
+ R = TP/(TP + FN):0.7639087018544936
+ F1 = 2.*P*R/(P + R):0.7912818618396749
+ Accuracy:0.9628607112338132
+
+>>>> Process Task1
+args: train_ratio = 0.15
+3 ->
+ P = TP/(TP + FP):0.8042010502625656
+ R = TP/(TP + FN):0.7646219686162625
+ F1 = 2.*P*R/(P + R):0.7839122486288848
+ Accuracy:0.9611516466180241
+
+>>>> Process Task1
+args: train_ratio = 0.15
+4 ->
+ P = TP/(TP + FP):0.8085569253081943
+ R = TP/(TP + FN):0.7987106017191977
+ F1 = 2.*P*R/(P + R):0.8036036036036036
+ Accuracy:0.9641753763228817
+
+>>>> Process Task1
+args: train_ratio = 0.15
+5 ->
+ P = TP/(TP + FP):0.828526890101325
+ R = TP/(TP + FN):0.7609162491052255
+ F1 = 2.*P*R/(P + R):0.7932835820895523
+ Accuracy:0.9635837770328008
+
+>>>> Process Task1
+args: train_ratio = 0.15
+6 ->
+ P = TP/(TP + FP):0.8017817371937639
+ R = TP/(TP + FN):0.7616361071932299
+ F1 = 2.*P*R/(P + R):0.7811934900542495
+ Accuracy:0.9602313810556761
+
+>>>> Process Task1
+args: train_ratio = 0.15
+7 ->
+ P = TP/(TP + FP):0.7916666666666666
+ R = TP/(TP + FN):0.8024337866857552
+ F1 = 2.*P*R/(P + R):0.7970138642019196
+ Accuracy:0.9624663117070926
+
+>>>> Process Task1
+args: train_ratio = 0.15
+8 ->
+ P = TP/(TP + FP):0.8218347232752085
+ R = TP/(TP + FN):0.7759484609878311
+ F1 = 2.*P*R/(P + R):0.7982326951399116
+ Accuracy:0.9639781765595214
+
+>>>> Process Task1
+args: train_ratio = 0.15
+9 ->
+ P = TP/(TP + FP):0.7912332838038633
+ R = TP/(TP + FN):0.7667386609071274
+ F1 = 2.*P*R/(P + R):0.7787934186471663
+ Accuracy:0.9602313810556761
+
+
+#################################################
+>>>> Process Task2
+args: pos_ratio = 0.5, train_ratio = 0.15
+0 ->
+ P = TP/(TP + FP):0.14378730330982095
+ R = TP/(TP + FN):0.8922558922558923
+ F1 = 2.*P*R/(P + R):0.2476635514018692
+ Accuracy:0.8941764164585251
+
+>>>> Process Task2
+args: pos_ratio = 0.5, train_ratio = 0.15
+1 ->
+ P = TP/(TP + FP):0.15067686874632136
+ R = TP/(TP + FN):0.8619528619528619
+ F1 = 2.*P*R/(P + R):0.25651302605210413
+ Accuracy:0.9024582621269883
+
+>>>> Process Task2
+args: pos_ratio = 0.5, train_ratio = 0.15
+2 ->
+ P = TP/(TP + FP):0.14195914091147196
+ R = TP/(TP + FN):0.9124579124579124
+ F1 = 2.*P*R/(P + R):0.24569356300997275
+ Accuracy:0.8906270540291836
+
+>>>> Process Task2
+args: pos_ratio = 0.5, train_ratio = 0.15
+3 ->
+ P = TP/(TP + FP):0.1423432682425488
+ R = TP/(TP + FN):0.9326599326599326
+ F1 = 2.*P*R/(P + R):0.24699063753901024
+ Accuracy:0.8889838306822664
+
+>>>> Process Task2
+args: pos_ratio = 0.5, train_ratio = 0.15
+4 ->
+ P = TP/(TP + FP):0.15105053946621239
+ R = TP/(TP + FN):0.8956228956228957
+ F1 = 2.*P*R/(P + R):0.2585034013605442
+ Accuracy:0.8996976469041672
+
+>>>> Process Task2
+args: pos_ratio = 0.5, train_ratio = 0.15
+5 ->
+ P = TP/(TP + FP):0.13964686998394862
+ R = TP/(TP + FN):0.8787878787878788
+ F1 = 2.*P*R/(P + R):0.24099722991689748
+ Accuracy:0.8919416327067174
+
+>>>> Process Task2
+args: pos_ratio = 0.5, train_ratio = 0.15
+6 ->
+ P = TP/(TP + FP):0.1444866920152091
+ R = TP/(TP + FN):0.8956228956228957
+ F1 = 2.*P*R/(P + R):0.24883068288119736
+ Accuracy:0.8944393321940318
+
+>>>> Process Task2
+args: pos_ratio = 0.5, train_ratio = 0.15
+7 ->
+ P = TP/(TP + FP):0.14380530973451328
+ R = TP/(TP + FN):0.8754208754208754
+ F1 = 2.*P*R/(P + R):0.24703087885985747
+ Accuracy:0.8958196398054423
+
+>>>> Process Task2
+args: pos_ratio = 0.5, train_ratio = 0.15
+8 ->
+ P = TP/(TP + FP):0.15038845726970032
+ R = TP/(TP + FN):0.9124579124579124
+ F1 = 2.*P*R/(P + R):0.25821819914244876
+ Accuracy:0.8976600499539897
+
+>>>> Process Task2
+args: pos_ratio = 0.5, train_ratio = 0.15
+9 ->
+ P = TP/(TP + FP):0.13899405083829097
+ R = TP/(TP + FN):0.8653198653198653
+ F1 = 2.*P*R/(P + R):0.23951537744641194
+ Accuracy:0.8927303799132378
+
+
+#################################################
+>>>> Process Task2
+args: pos_ratio = 0.3333333333333333, train_ratio = 0.15
+0 ->
+ P = TP/(TP + FP):0.41042345276872966
+ R = TP/(TP + FN):0.8467741935483871
+ F1 = 2.*P*R/(P + R):0.5528740675734971
+ Accuracy:0.9330178137119569
+
+>>>> Process Task2
+args: pos_ratio = 0.3333333333333333, train_ratio = 0.15
+1 ->
+ P = TP/(TP + FP):0.41716968477531857
+ R = TP/(TP + FN):0.8360215053763441
+ F1 = 2.*P*R/(P + R):0.556599552572707
+ Accuracy:0.9348583448366529
+
+>>>> Process Task2
+args: pos_ratio = 0.3333333333333333, train_ratio = 0.15
+2 ->
+ P = TP/(TP + FP):0.4060295060936498
+ R = TP/(TP + FN):0.8508064516129032
+ F1 = 2.*P*R/(P + R):0.5497177594442032
+ Accuracy:0.9318346151317952
+
+>>>> Process Task2
+args: pos_ratio = 0.3333333333333333, train_ratio = 0.15
+3 ->
+ P = TP/(TP + FP):0.37548964745383323
+ R = TP/(TP + FN):0.9018817204301075
+ F1 = 2.*P*R/(P + R):0.5302252074278941
+ Accuracy:0.9218431604548741
+
+>>>> Process Task2
+args: pos_ratio = 0.3333333333333333, train_ratio = 0.15
+4 ->
+ P = TP/(TP + FP):0.4272237196765499
+ R = TP/(TP + FN):0.8521505376344086
+ F1 = 2.*P*R/(P + R):0.5691202872531418
+ Accuracy:0.9368960757247091
+
+>>>> Process Task2
+args: pos_ratio = 0.3333333333333333, train_ratio = 0.15
+5 ->
+ P = TP/(TP + FP):0.39200477326968974
+ R = TP/(TP + FN):0.8830645161290323
+ F1 = 2.*P*R/(P + R):0.5429752066115702
+ Accuracy:0.9272990205745086
+
+>>>> Process Task2
+args: pos_ratio = 0.3333333333333333, train_ratio = 0.15
+6 ->
+ P = TP/(TP + FP):0.4185742315238718
+ R = TP/(TP + FN):0.8602150537634409
+ F1 = 2.*P*R/(P + R):0.5631324241091069
+ Accuracy:0.934726878327746
+
+>>>> Process Task2
+args: pos_ratio = 0.3333333333333333, train_ratio = 0.15
+7 ->
+ P = TP/(TP + FP):0.42108753315649866
+ R = TP/(TP + FN):0.853494623655914
+ F1 = 2.*P*R/(P + R):0.563943161634103
+ Accuracy:0.9354499441267338
+
+>>>> Process Task2
+args: pos_ratio = 0.3333333333333333, train_ratio = 0.15
+8 ->
+ P = TP/(TP + FP):0.4172569220862846
+ R = TP/(TP + FN):0.8709677419354839
+ F1 = 2.*P*R/(P + R):0.564214192424902
+ Accuracy:0.9342010122921186
+
+>>>> Process Task2
+args: pos_ratio = 0.3333333333333333, train_ratio = 0.15
+9 ->
+ P = TP/(TP + FP):0.4107965766951942
+ R = TP/(TP + FN):0.8387096774193549
+ F1 = 2.*P*R/(P + R):0.551480335837384
+ Accuracy:0.9332807467297706
+
+
+#################################################
+>>>> Process Task2
+args: pos_ratio = 0.25, train_ratio = 0.15
+0 ->
+ P = TP/(TP + FP):0.5361842105263158
+ R = TP/(TP + FN):0.8419421487603306
+ F1 = 2.*P*R/(P + R):0.6551446945337621
+ Accuracy:0.9436008676789588
+
+>>>> Process Task2
+args: pos_ratio = 0.25, train_ratio = 0.15
+1 ->
+ P = TP/(TP + FP):0.5428954423592494
+ R = TP/(TP + FN):0.8367768595041323
+ F1 = 2.*P*R/(P + R):0.6585365853658537
+ Accuracy:0.9447840662591205
+
+>>>> Process Task2
+args: pos_ratio = 0.25, train_ratio = 0.15
+2 ->
+ P = TP/(TP + FP):0.5433224755700325
+ R = TP/(TP + FN):0.8615702479338843
+ F1 = 2.*P*R/(P + R):0.6664003196164602
+ Accuracy:0.9451127325313876
+
+>>>> Process Task2
+args: pos_ratio = 0.25, train_ratio = 0.15
+3 ->
+ P = TP/(TP + FP):0.5477792732166891
+ R = TP/(TP + FN):0.8409090909090909
+ F1 = 2.*P*R/(P + R):0.6634066829665852
+ Accuracy:0.9457043318214685
+
+>>>> Process Task2
+args: pos_ratio = 0.25, train_ratio = 0.15
+4 ->
+ P = TP/(TP + FP):0.5461329715061058
+ R = TP/(TP + FN):0.8316115702479339
+ F1 = 2.*P*R/(P + R):0.6592956592956593
+ Accuracy:0.9453099322947479
+
+>>>> Process Task2
+args: pos_ratio = 0.25, train_ratio = 0.15
+5 ->
+ P = TP/(TP + FP):0.520253164556962
+ R = TP/(TP + FN):0.8491735537190083
+ F1 = 2.*P*R/(P + R):0.6452119309262166
+ Accuracy:0.9405771379741011
+
+>>>> Process Task2
+args: pos_ratio = 0.25, train_ratio = 0.15
+6 ->
+ P = TP/(TP + FP):0.5618131868131868
+ R = TP/(TP + FN):0.8450413223140496
+ F1 = 2.*P*R/(P + R):0.6749174917491749
+ Accuracy:0.9482021954906987
+
+>>>> Process Task2
+args: pos_ratio = 0.25, train_ratio = 0.15
+7 ->
+ P = TP/(TP + FP):0.5391644908616188
+ R = TP/(TP + FN):0.8533057851239669
+ F1 = 2.*P*R/(P + R):0.6607999999999999
+ Accuracy:0.944258200223493
+
+>>>> Process Task2
+args: pos_ratio = 0.25, train_ratio = 0.15
+8 ->
+ P = TP/(TP + FP):0.5326732673267327
+ R = TP/(TP + FN):0.8336776859504132
+ F1 = 2.*P*R/(P + R):0.6500201369311318
+ Accuracy:0.9428778018799711
+
+>>>> Process Task2
+args: pos_ratio = 0.25, train_ratio = 0.15
+9 ->
+ P = TP/(TP + FP):0.5443786982248521
+ R = TP/(TP + FN):0.8553719008264463
+ F1 = 2.*P*R/(P + R):0.6653274407392528
+ Accuracy:0.9452441990402944
+
+
+#################################################
+>>>> Process Task2
+args: pos_ratio = 0.2, train_ratio = 0.15
+0 ->
+ P = TP/(TP + FP):0.6231086657496562
+ R = TP/(TP + FN):0.822141560798548
+ F1 = 2.*P*R/(P + R):0.7089201877934272
+ Accuracy:0.9510944586866495
+
+>>>> Process Task2
+args: pos_ratio = 0.2, train_ratio = 0.15
+1 ->
+ P = TP/(TP + FP):0.6070726915520629
+ R = TP/(TP + FN):0.8411978221415608
+ F1 = 2.*P*R/(P + R):0.7052111068847471
+ Accuracy:0.9490567277985933
+
+>>>> Process Task2
+args: pos_ratio = 0.2, train_ratio = 0.15
+2 ->
+ P = TP/(TP + FP):0.6548223350253807
+ R = TP/(TP + FN):0.8194192377495463
+ F1 = 2.*P*R/(P + R):0.7279322853688028
+ Accuracy:0.9556300532439361
+
+>>>> Process Task2
+args: pos_ratio = 0.2, train_ratio = 0.15
+3 ->
+ P = TP/(TP + FP):0.620457604306864
+ R = TP/(TP + FN):0.8366606170598911
+ F1 = 2.*P*R/(P + R):0.7125193199381762
+ Accuracy:0.9510944586866495
+
+>>>> Process Task2
+args: pos_ratio = 0.2, train_ratio = 0.15
+4 ->
+ P = TP/(TP + FP):0.6343490304709142
+ R = TP/(TP + FN):0.8312159709618875
+ F1 = 2.*P*R/(P + R):0.7195600942655146
+ Accuracy:0.9530664563202524
+
+>>>> Process Task2
+args: pos_ratio = 0.2, train_ratio = 0.15
+5 ->
+ P = TP/(TP + FP):0.66
+ R = TP/(TP + FN):0.808529945553539
+ F1 = 2.*P*R/(P + R):0.7267536704730831
+ Accuracy:0.9559587195162033
+
+>>>> Process Task2
+args: pos_ratio = 0.2, train_ratio = 0.15
+6 ->
+ P = TP/(TP + FP):0.6144496961512491
+ R = TP/(TP + FN):0.8257713248638838
+ F1 = 2.*P*R/(P + R):0.7046070460704607
+ Accuracy:0.9498455268520345
+
+>>>> Process Task2
+args: pos_ratio = 0.2, train_ratio = 0.15
+7 ->
+ P = TP/(TP + FP):0.6369337979094076
+ R = TP/(TP + FN):0.8294010889292196
+ F1 = 2.*P*R/(P + R):0.7205360662199448
+ Accuracy:0.9533951225925196
+
+>>>> Process Task2
+args: pos_ratio = 0.2, train_ratio = 0.15
+8 ->
+ P = TP/(TP + FP):0.6466854724964739
+ R = TP/(TP + FN):0.8321234119782214
+ F1 = 2.*P*R/(P + R):0.7277777777777779
+ Accuracy:0.9549069874449484
+
+>>>> Process Task2
+args: pos_ratio = 0.2, train_ratio = 0.15
+9 ->
+ P = TP/(TP + FP):0.6442577030812325
+ R = TP/(TP + FN):0.8348457350272233
+ F1 = 2.*P*R/(P + R):0.7272727272727273
+ Accuracy:0.9546440544271347
+
+
+#################################################
+>>>> Process Task2
+args: pos_ratio = 0.16666666666666666, train_ratio = 0.15
+0 ->
+ P = TP/(TP + FP):0.6904593639575972
+ R = TP/(TP + FN):0.8196308724832215
+ F1 = 2.*P*R/(P + R):0.7495205216724203
+ Accuracy:0.9570790061785198
+
+>>>> Process Task2
+args: pos_ratio = 0.16666666666666666, train_ratio = 0.15
+1 ->
+ P = TP/(TP + FP):0.6742424242424242
+ R = TP/(TP + FN):0.8213087248322147
+ F1 = 2.*P*R/(P + R):0.7405446293494705
+ Accuracy:0.954909951360589
+
+>>>> Process Task2
+args: pos_ratio = 0.16666666666666666, train_ratio = 0.15
+2 ->
+ P = TP/(TP + FP):0.6472919418758256
+ R = TP/(TP + FN):0.8221476510067114
+ F1 = 2.*P*R/(P + R):0.7243163340724317
+ Accuracy:0.9509662153279874
+
+>>>> Process Task2
+args: pos_ratio = 0.16666666666666666, train_ratio = 0.15
+3 ->
+ P = TP/(TP + FP):0.6795847750865052
+ R = TP/(TP + FN):0.8238255033557047
+ F1 = 2.*P*R/(P + R):0.7447857413727721
+ Accuracy:0.9557644275009859
+
+>>>> Process Task2
+args: pos_ratio = 0.16666666666666666, train_ratio = 0.15
+4 ->
+ P = TP/(TP + FP):0.670061099796334
+ R = TP/(TP + FN):0.8280201342281879
+ F1 = 2.*P*R/(P + R):0.7407129455909942
+ Accuracy:0.9545813066912054
+
+>>>> Process Task2
+args: pos_ratio = 0.16666666666666666, train_ratio = 0.15
+5 ->
+ P = TP/(TP + FP):0.6769016050244243
+ R = TP/(TP + FN):0.8137583892617449
+ F1 = 2.*P*R/(P + R):0.739047619047619
+ Accuracy:0.9549756802944657
+
+>>>> Process Task2
+args: pos_ratio = 0.16666666666666666, train_ratio = 0.15
+6 ->
+ P = TP/(TP + FP):0.6878571428571428
+ R = TP/(TP + FN):0.8078859060402684
+ F1 = 2.*P*R/(P + R):0.7430555555555555
+ Accuracy:0.9562245300381228
+
+>>>> Process Task2
+args: pos_ratio = 0.16666666666666666, train_ratio = 0.15
+7 ->
+ P = TP/(TP + FP):0.6887791107974595
+ R = TP/(TP + FN):0.8187919463087249
+ F1 = 2.*P*R/(P + R):0.7481793790724417
+ Accuracy:0.956816090443013
+
+>>>> Process Task2
+args: pos_ratio = 0.16666666666666666, train_ratio = 0.15
+8 ->
+ P = TP/(TP + FP):0.6959654178674352
+ R = TP/(TP + FN):0.8104026845637584
+ F1 = 2.*P*R/(P + R):0.7488372093023256
+ Accuracy:0.9574076508479032
+
+>>>> Process Task2
+args: pos_ratio = 0.16666666666666666, train_ratio = 0.15
+9 ->
+ P = TP/(TP + FP):0.6994177583697234
+ R = TP/(TP + FN):0.8062080536912751
+ F1 = 2.*P*R/(P + R):0.7490257209664847
+ Accuracy:0.95767056658341
+
+
+#################################################
+>>>> Process Task2
+args: pos_ratio = 0.14285714285714285, train_ratio = 0.15
+0 ->
+ P = TP/(TP + FP):0.7368035190615836
+ R = TP/(TP + FN):0.8007968127490039
+ F1 = 2.*P*R/(P + R):0.7674684994272624
+ Accuracy:0.9599684480378624
+
+>>>> Process Task2
+args: pos_ratio = 0.14285714285714285, train_ratio = 0.15
+1 ->
+ P = TP/(TP + FP):0.696514012303486
+ R = TP/(TP + FN):0.8119521912350598
+ F1 = 2.*P*R/(P + R):0.7498160412067696
+ Accuracy:0.955301386971669
+
+>>>> Process Task2
+args: pos_ratio = 0.14285714285714285, train_ratio = 0.15
+2 ->
+ P = TP/(TP + FP):0.7356154406409323
+ R = TP/(TP + FN):0.8047808764940239
+ F1 = 2.*P*R/(P + R):0.7686453576864536
+ Accuracy:0.9600341812923158
+
+>>>> Process Task2
+args: pos_ratio = 0.14285714285714285, train_ratio = 0.15
+3 ->
+ P = TP/(TP + FP):0.7141833810888252
+ R = TP/(TP + FN):0.7944223107569721
+ F1 = 2.*P*R/(P + R):0.7521689928328932
+ Accuracy:0.9568132518240978
+
+>>>> Process Task2
+args: pos_ratio = 0.14285714285714285, train_ratio = 0.15
+4 ->
+ P = TP/(TP + FP):0.7219369038884813
+ R = TP/(TP + FN):0.7840637450199203
+ F1 = 2.*P*R/(P + R):0.7517188693659282
+ Accuracy:0.9572733846052718
+
+>>>> Process Task2
+args: pos_ratio = 0.14285714285714285, train_ratio = 0.15
+5 ->
+ P = TP/(TP + FP):0.7318518518518519
+ R = TP/(TP + FN):0.7872509960159363
+ F1 = 2.*P*R/(P + R):0.7585412667946256
+ Accuracy:0.9586537829487938
+
+>>>> Process Task2
+args: pos_ratio = 0.14285714285714285, train_ratio = 0.15
+6 ->
+ P = TP/(TP + FP):0.7450404114621602
+ R = TP/(TP + FN):0.8079681274900399
+ F1 = 2.*P*R/(P + R):0.7752293577981653
+ Accuracy:0.9613488463813843
+
+>>>> Process Task2
+args: pos_ratio = 0.14285714285714285, train_ratio = 0.15
+7 ->
+ P = TP/(TP + FP):0.7093728927848955
+ R = TP/(TP + FN):0.8382470119521912
+ F1 = 2.*P*R/(P + R):0.7684441197954711
+ Accuracy:0.9583251166765266
+
+>>>> Process Task2
+args: pos_ratio = 0.14285714285714285, train_ratio = 0.15
+8 ->
+ P = TP/(TP + FP):0.6925630810092962
+ R = TP/(TP + FN):0.8310756972111554
+ F1 = 2.*P*R/(P + R):0.7555233611010502
+ Accuracy:0.9556300532439361
+
+>>>> Process Task2
+args: pos_ratio = 0.14285714285714285, train_ratio = 0.15
+9 ->
+ P = TP/(TP + FP):0.6921529175050302
+ R = TP/(TP + FN):0.8223107569721115
+ F1 = 2.*P*R/(P + R):0.7516387472687545
+ Accuracy:0.9551699204627621
+
+
+#################################################
+>>>> Process Task2
+args: pos_ratio = 0.125, train_ratio = 0.15
+0 ->
+ P = TP/(TP + FP):0.7553269654665687
+ R = TP/(TP + FN):0.7889485801995395
+ F1 = 2.*P*R/(P + R):0.7717717717717719
+ Accuracy:0.9600341812923158
+
+>>>> Process Task2
+args: pos_ratio = 0.125, train_ratio = 0.15
+1 ->
+ P = TP/(TP + FP):0.7310104529616724
+ R = TP/(TP + FN):0.805065234075211
+ F1 = 2.*P*R/(P + R):0.7662527392257121
+ Accuracy:0.957930717149806
+
+>>>> Process Task2
+args: pos_ratio = 0.125, train_ratio = 0.15
+2 ->
+ P = TP/(TP + FP):0.74231843575419
+ R = TP/(TP + FN):0.8158096699923254
+ F1 = 2.*P*R/(P + R):0.7773308957952467
+ Accuracy:0.9599684480378624
+
+>>>> Process Task2
+args: pos_ratio = 0.125, train_ratio = 0.15
+3 ->
+ P = TP/(TP + FP):0.7372881355932204
+ R = TP/(TP + FN):0.8012279355333844
+ F1 = 2.*P*R/(P + R):0.7679293858036043
+ Accuracy:0.958522316439887
+
+>>>> Process Task2
+args: pos_ratio = 0.125, train_ratio = 0.15
+4 ->
+ P = TP/(TP + FP):0.7638266068759342
+ R = TP/(TP + FN):0.7843438219493477
+ F1 = 2.*P*R/(P + R):0.7739492616433169
+ Accuracy:0.9607572470913035
+
+>>>> Process Task2
+args: pos_ratio = 0.125, train_ratio = 0.15
+5 ->
+ P = TP/(TP + FP):0.7518037518037518
+ R = TP/(TP + FN):0.7996930161166539
+ F1 = 2.*P*R/(P + R):0.775009297136482
+ Accuracy:0.9602313810556761
+
+>>>> Process Task2
+args: pos_ratio = 0.125, train_ratio = 0.15
+6 ->
+ P = TP/(TP + FP):0.7621464829586657
+ R = TP/(TP + FN):0.8066001534919417
+ F1 = 2.*P*R/(P + R):0.7837434750186428
+ Accuracy:0.9618747124170117
+
+>>>> Process Task2
+args: pos_ratio = 0.125, train_ratio = 0.15
+7 ->
+ P = TP/(TP + FP):0.7660044150110376
+ R = TP/(TP + FN):0.7989255564082886
+ F1 = 2.*P*R/(P + R):0.7821187077385424
+ Accuracy:0.9618747124170117
+
+>>>> Process Task2
+args: pos_ratio = 0.125, train_ratio = 0.15
+8 ->
+ P = TP/(TP + FP):0.7098305084745763
+ R = TP/(TP + FN):0.8035303146584805
+ F1 = 2.*P*R/(P + R):0.7537796976241901
+ Accuracy:0.9550384539538552
+
+>>>> Process Task2
+args: pos_ratio = 0.125, train_ratio = 0.15
+9 ->
+ P = TP/(TP + FP):0.7634943181818182
+ R = TP/(TP + FN):0.8250191864927091
+ F1 = 2.*P*R/(P + R):0.7930652895610476
+ Accuracy:0.9631236442516269
+
+
+#################################################
