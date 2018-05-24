@@ -1,5 +1,7 @@
 # HTRU2_classifier
 
+Environment：Ubuntu16.04 + tensorflow1.6 + python3.5 + cuda9.0 + cuDNN7.1 (NVIDIA GeForce GTX 960M)
+
 # 基于机器学习和模式识的脉冲星检测
 
 # 任务一：基于固定比例的训练和测试样本集，以及固定特征，设计分类方法，检测脉冲星检测的准确率
